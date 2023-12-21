@@ -1,20 +1,14 @@
-<!-- Enter a brief description/summary of your PR here. What does it fix/what does it change/how was it tested (even manually, if necessary)? -->
-## Summary of the Pull Request
+# Pull Request
 
-<!-- Other than the issue solved, is this relevant to any other issues/existing PRs? --> 
-## References
+## Description
+<!-- Briefly describe the changes in this pull request -->
 
-<!-- Please review the items on the PR checklist before submitting-->
-## PR Checklist
-* [ ] Closes #xxx
+## Checklist
+<!-- Make sure that you've checked all the boxes before submitting the pull request -->
+- [ ] I have tested these changes locally.
+- [ ] Code follows project coding standards.
+- [ ] Documentation is updated or added.
+- [ ] No new warnings or errors are introduced.
 
-* [ ] Tests added/passed
-* [ ] Documentation updated
-* [ ] Schema updated.
-* [ ] I've discussed this with core contributors already. If not checked, I'm ready to accept this work might be rejected in favor of a different grand plan. Issue number where discussion took place: #xxx
-
-<!-- Provide a more detailed description of the PR, other things fixed or any additional comments/features here -->
-## Detailed Description of the Pull Request / Additional comments
-
-<!-- Describe how you validated the behavior. Add automated tests wherever possible, but list manual validation steps taken as well -->
-## Validation Steps Performed
+## Additional Notes
+<!-- Include any additional information that might be helpful for the reviewer -->
