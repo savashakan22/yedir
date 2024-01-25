@@ -45,4 +45,4 @@ If you're interested in contributing to Yedir, check out our [contribution guide
 
 Yedir is released under the ......... Feel free to use, modify, and distribute it as you see fit.
 
-Enjoy your cooking adventures with Yedir! 🍽️🍽️🍽️
+Enjoy your cooking adventures with Yedir! 🍽️🍽️
